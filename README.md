@@ -1,4 +1,4 @@
-[![Atanas Vasilev's github stats](https://github-readme-stats.vercel.app/api?username=NaskoVasilev)](https://github.com/anuraghazra/github-readme-stats)
+[![Atanas Vasilev's github stats](https://github-readme-stats.vercel.app/api?username=NaskoVasilev&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning Software Engineer in Faculty of Mathematics and Informatics, Sofia University
 - 📫 How to reach me:
