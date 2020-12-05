@@ -1,6 +1,7 @@
-[![Atanas Vasilev's github stats](https://github-readme-stats.vercel.app/api?username=NaskoVasilev&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaskoVasilev)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=NaskoVasilev&count_private=true&include_all_commits=true&hide=issues&show_icons=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaskoVasilev&layout=compact" />
+</div>
 
 - 🌱 I’m currently learning Software Engineer in Faculty of Mathematics and Informatics, Sofia University
 - 📫 How to reach me:
