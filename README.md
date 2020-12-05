@@ -4,7 +4,5 @@
 </div>
 
 - 🌱 I’m currently learning Software Engineer in Faculty of Mathematics and Informatics, Sofia University
-- 📫 How to reach me:
-   - Email: nasko01vasilev@gmail.com
-   - Facebook: https://www.facebook.com/nasko.it
-   - Instagram: https://www.instagram.com/nasko.it
+- Email: nasko01vasilev@gmail.com
+- Facebook: https://www.facebook.com/nasko.it
