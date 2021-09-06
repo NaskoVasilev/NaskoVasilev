@@ -3,6 +3,6 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaskoVasilev&layout=compact" />
 </div>
 
-- 🌱 I’m currently learning Software Engineer in Faculty of Mathematics and Informatics, Sofia University
+- 🌱 I’m currently learning Software Engineering in Faculty of Mathematics and Informatics, Sofia University
 - Email: nasko01vasilev@gmail.com
 - Facebook: https://www.facebook.com/nasko.it
